@@ -1,0 +1,364 @@
+{
+    "ats": 0,
+    "creationDate": "2020-02-19T13:22:03.000Z",
+    "ean": "3253581521380",
+    "id": "27OR030I18",
+    "inStock": false,
+    "lastModified": "2024-12-10T19:10:18.000Z",
+    "longDescription": {
+        "default": {
+            "markup": "What if you could reset your skin in just one night?  Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night.",
+            "source": "What if you could reset your skin in just one night?  Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night."
+        },
+        "en-CA": {
+            "markup": "<p><strong>What if you could reset your skin in just one night? </strong><br />\n\nEveryday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night.</p>\n\n\n\n<p><em>*Sell-out from Boutiques & E commerce Worldwide since launch in September 2018 until end May 2019.</em></p>",
+            "source": "<p><strong>What if you could reset your skin in just one night? </strong><br />\n\nEveryday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night.</p>\n\n\n\n<p><em>*Sell-out from Boutiques & E commerce Worldwide since launch in September 2018 until end May 2019.</em></p>"
+        },
+        "en-US": {
+            "markup": "What if you could reset your skin in just one night?  Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night. One sold every minute, according to sell-out from Boutiques and E-commerce Worldwide since launch in September 2018 until end May 2019.",
+            "source": "What if you could reset your skin in just one night?  Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night. One sold every minute, according to sell-out from Boutiques and E-commerce Worldwide since launch in September 2018 until end May 2019."
+        },
+        "fr-CA": {
+            "markup": "<p><strong>Et si vous pouviez régénérer votre peau en une nuit seulement?</strong><br />\r\n\r\nChaque jour, la peau est exposée à divers environnements agressifs qui lui donnent un aspect terne et sec. Prenez soin de votre peau pendant la nuit, qui est la période la plus active de renouvellement cellulaire. Appliquez le Sérum Huile réparateur de nuit avant de vous coucher et votre peau retrouvera un aspect reposé en une nuit seulement.</p>",
+            "source": "<p><strong>Et si vous pouviez régénérer votre peau en une nuit seulement?</strong><br />\r\n\r\nChaque jour, la peau est exposée à divers environnements agressifs qui lui donnent un aspect terne et sec. Prenez soin de votre peau pendant la nuit, qui est la période la plus active de renouvellement cellulaire. Appliquez le Sérum Huile réparateur de nuit avant de vous coucher et votre peau retrouvera un aspect reposé en une nuit seulement.</p>"
+        }
+    },
+    "master": {
+        "masterId": "27OTHCT02Z12P00095",
+        "orderable": true
+    },
+    "name": {
+        "default": "Immortelle Overnight Reset Oil-in-Serum",
+        "en-CA": "Immortelle Overnight Reset Oil-in-Serum",
+        "en-US": "Immortelle Overnight Reset Oil-in-Serum",
+        "fr-CA": "Sérum Huile réparateur de nuit Immortelle"
+    },
+    "online": false,
+    "onlineFlag": {
+        "default": false,
+        "default@OCC_CA": false,
+        "default@OCC_US": false
+    },
+    "owningCatalogId": "occ_master",
+    "owningCatalogName": {
+        "default": "occ_master",
+        "en-CA": "occ_master",
+        "en-US": "occ_master"
+    },
+    "pageDescription": {
+        "default": "Care for your skin at night when skin renewal is most active. Apply new Immortelle Overnight Reset Oil-in-Serum before you sleep for skin that looks rested in just one night.",
+        "en-CA": "Care for your skin at night when skin renewal is most active. Apply new Immortelle Overnight Reset Oil-in-Serum before you sleep for skin that looks rested in just one night.",
+        "en-US": "Care for your skin at night when skin renewal is most active. Apply new Immortelle Overnight Reset Oil-in-Serum before you sleep for skin that looks rested in just one night.",
+        "fr-CA": "Découvrez le nouveau Sérum Huile réparateur de nuit de L’Occitane. Le nouveau Sérum adoucit et réveille la peau instantanément."
+    },
+    "pageKeywords": {
+        "en-CA": "night, radiance",
+        "en-US": "night, radiance",
+        "fr-CA": "nuit"
+    },
+    "pageTitle": {
+        "default": "Overnight Reset Oil-In-Serum | Immortelle Reset",
+        "en-CA": "Overnight Reset Oil-In-Serum | Immortelle Reset",
+        "en-US": "Overnight Reset Oil-In-Serum | Immortelle Reset",
+        "fr-CA": "Sérum Huile réparateur de nuit | Réparateur Immortelle"
+    },
+    "price": 72.00,
+    "priceCurrency": "USD",
+    "pricePerUnit": 72.00,
+    "primaryCategories": [
+        {
+            "catalogId": "occ_ca_storefront",
+            "categoryId": "PLP_FaceCare_Serums"
+        },
+        {
+            "catalogId": "occ_master",
+            "categoryId": "Master-Category"
+        },
+        {
+            "catalogId": "occ_us_storefront",
+            "categoryId": "PLP_Skincare_Serums"
+        }
+    ],
+    "primaryCategoryId": "PLP_Skincare_Serums",
+    "searchable": {
+        "default": false,
+        "default@OCC_CA": false,
+        "default@OCC_US": false,
+        "default@OCC": false,
+        "default@ERB_US": false
+    },
+    "shortDescription": {
+        "default": {
+            "markup": "Master Reset",
+            "source": "Master Reset"
+        },
+        "en-CA": {
+            "markup": "Master Reset",
+            "source": "Master Reset"
+        },
+        "en-US": {
+            "markup": "Master Reset",
+            "source": "Master Reset"
+        }
+    },
+    "type": {
+        "bundled": true,
+        "variant": true
+    },
+    "unitQuantity": 0,
+    "variationValues": {
+        "volume": "30",
+        "format": "STANDARD PRODUCT",
+        "scent": "Reset Immortelle",
+        "version ": "2018"
+    },
+    "c_OCC_CallCenterDescription": {
+        "default": "What if you could reset your skin in just one night?      Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The new Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night.      Suitable For:      - All skin types      - All ages (start in your 20's)      Benefits:      After 1 Night, you look more rested*      After 7 Nights, you look revitalized*      After 28 Nights, you look transformed*      *Consumer tests on 115 women",
+        "en-CA": "What if you could reset your skin in just one night?      Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The new Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night.      Suitable For:      - All skin types      - All ages (start in your 20's)      Benefits:      After 1 Night, you look more rested*      After 7 Nights, you look revitalized*      After 28 Nights, you look transformed*      *Consumer tests on 115 women",
+        "en-US": "What if you could reset your skin in just one night?      Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The new Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night.      Suitable For:      - All skin types      - All ages (start in your 20's)      Benefits:      After 1 Night, you look more rested*      After 7 Nights, you look revitalized*      After 28 Nights, you look transformed*      *Consumer tests on 115 women",
+        "fr-CA": "What if you could reset your skin in just one night?      Everyday our skin is exposed to an array of environmental aggressors, making it appear dull, dry, and lackluster. Care for your skin at night when skin renewal is most active. The new Immortelle Overnight Reset Oil-in-Serum is applied before you sleep for skin that looks rested in just one night.      Suitable For:      - All skin types      - All ages (start in your 20's)      Benefits:      After 1 Night, you look more rested*      After 7 Nights, you look revitalized*      After 28 Nights, you look transformed*      *Consumer tests on 115 women"
+    },
+    "c_OCC_applicationArea": {
+        "default": {
+            "markup": "Apply at night on clean face and neck.",
+            "source": "Apply at night on clean face and neck."
+        },
+        "en-CA": {
+            "markup": "Apply at night on clean face and neck.",
+            "source": "Apply at night on clean face and neck."
+        },
+        "en-US": {
+            "markup": "Apply at night on clean face and neck.",
+            "source": "Apply at night on clean face and neck."
+        },
+        "fr-CA": {
+            "markup": "Le soir, appliquez sur le visage nettoyé et le cou.",
+            "source": "Le soir, appliquez sur le visage nettoyé et le cou."
+        }
+    },
+    "c_OCC_applicationAreaKeyIngredient": "KEY-INGREDIENT-Immortelle-Collection",
+    "c_OCC_autoReplenishmentFrequency": {
+        "default": 3,
+        "default@OCC_CA": 3,
+        "default@OCC_US": 3
+    },
+    "c_OCC_brand": {
+        "default": "OCCITANE EN PROVENCE",
+        "en-CA": "L'Occitane",
+        "en-US": "L'Occitane"
+    },
+    "c_OCC_collection": {
+        "default": [
+            "Immortelle Reset"
+        ],
+        "en-CA": [
+            "Immortelle Precious"
+        ],
+        "en-US": [
+            "Immortelle Precious"
+        ],
+        "fr-CA": [
+            "Immortelle Précieuse"
+        ]
+    },
+    "c_OCC_concern": {
+        "default": [
+            "First signs of aging"
+        ],
+        "en-CA": [
+            "All Skin Types"
+        ],
+        "en-US": [
+            "All Skin Types"
+        ],
+        "fr-CA": [
+            "Tous Types de Cheveux"
+        ]
+    },
+    "c_OCC_departmentNumber": "001V2",
+    "c_OCC_featuredIngredientAsset1": {
+        "default": "ING-Immortelle-Essential-Oil",
+        "en-CA": "ING-Immortelle-Oil",
+        "en-US": "ING-Immortelle-Oil",
+        "fr-CA": "ING-Immortelle-Oil"
+    },
+    "c_OCC_flexibleContentAssetID": {
+        "default": "flexible_content_ResetResults"
+    },
+    "c_OCC_format": "STANDARD PRODUCT",
+    "c_OCC_grossWeight": 148.0,
+    "c_OCC_height": 105.0,
+    "c_OCC_heightInches": 4.13,
+    "c_OCC_inci": {
+        "default": "AQUA/WATER - PROPANEDIOL - GLYCERIN - ISONONYL ISONONANOATE - BUTYLENE GLYCOL - PENTYLENE GLYCOL - DEXTRIN PALMITATE / ETHYLHEXANOATE - LIMNANTHES ALBA (MEADOWFOAM) SEED OIL - HELICHRYSUM ITALICUM FLOWER OIL - ORIGANUM MAJORANA LEAF EXTRACT - ACMELLA OLERACEA EXTRACT - MARJORAM EXTRACT - HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL - ADENOSINE - PHENOXYETHANOL - CARBOMER - MALTODEXTRIN - SODIUM HYDROXIDE - PALMITIC ACID - DISODIUM EDTA - CELLULOSE GUM - AMODIMETHICONE - TOCOPHEROL - PARFUM/FRAGRANCE - CI 75130 / BETA-CAROTENE",
+        "en-CA": "AQUA/WATER - PROPANEDIOL - GLYCERIN - ISONONYL ISONONANOATE - BUTYLENE GLYCOL - PENTYLENE GLYCOL - DEXTRIN PALMITATE / ETHYLHEXANOATE - LIMNANTHES ALBA (MEADOWFoam) SEED OIL - HELICHRYSUM ITALICUM FLOWER OIL - ORIGANUM MAJORANA LEAF EXTRACT - ACMELLA OLERACEA EXTRACT - MARJORAM EXTRACT - HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL - ADENOSINE - PHENOXYETHANOL - CARBOMER - MALTODEXTRIN - SODIUM HYDROXIDE - PALMITIC ACID - DISODIUM EDTA - CELLULOSE GUM - AMODIMETHICONE - TOCOPHEROL - PARFUM/FRAGRANCE - CI 75130 / BETA-CAROTENE",
+        "en-US": "AQUA/WATER - PROPANEDIOL - GLYCERIN - ISONONYL ISONONANOATE - BUTYLENE GLYCOL - PENTYLENE GLYCOL - DEXTRIN PALMITATE / ETHYLHEXANOATE - LIMNANTHES ALBA (MEADOWFoam) SEED OIL - HELICHRYSUM ITALICUM FLOWER OIL - ORIGANUM MAJORANA LEAF EXTRACT - ACMELLA OLERACEA EXTRACT - MARJORAM EXTRACT - HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL - ADENOSINE - PHENOXYETHANOL - CARBOMER - MALTODEXTRIN - SODIUM HYDROXIDE - PALMITIC ACID - DISODIUM EDTA - CELLULOSE GUM - AMODIMETHICONE - TOCOPHEROL - PARFUM/FRAGRANCE - CI 75130 / BETA-CAROTENE",
+        "fr-CA": "AQUA/WATER - PROPANEDIOL - GLYCERIN - ISONONYL ISONONANOATE - BUTYLENE GLYCOL - PENTYLENE GLYCOL - DEXTRIN PALMITATE / ETHYLHEXANOATE - LIMNANTHES ALBA (MEADOWFoam) SEED OIL - HELICHRYSUM ITALICUM FLOWER OIL - ORIGANUM MAJORANA LEAF EXTRACT - ACMELLA OLERACEA EXTRACT - MARJORAM EXTRACT - HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL - ADENOSINE - PHENOXYETHANOL - CARBOMER - MALTODEXTRIN - SODIUM HYDROXIDE - PALMITIC ACID - DISODIUM EDTA - CELLULOSE GUM - AMODIMETHICONE - TOCOPHEROL - PARFUM/FRAGRANCE - CI 75130 / BETA-CAROTENE"
+    },
+    "c_OCC_isAutoreplenishment": {
+        "default": false
+    },
+    "c_OCC_isDiscontinued": {
+        "default": false
+    },
+    "c_OCC_isHazmat": false,
+    "c_OCC_isWrapped": false,
+    "c_OCC_length": 47.0,
+    "c_OCC_lengthInches": 1.85,
+    "c_OCC_marketplaceProductTitle": {
+        "default": "L'Occitane Immortelle Overnight Reset Oil-in-Serum for a More Youthful and Rested Complexion, 1 fl. oz.",
+        "en-CA": "L'Occitane Immortelle Overnight Reset Oil-in-Serum for a More Youthful and Rested Complexion, 1 fl. oz.",
+        "en-US": "L'Occitane Immortelle Overnight Reset Oil-in-Serum for a More Youthful and Rested Complexion, 1 fl. oz.",
+        "fr-CA": "L'Occitane Immortelle Overnight Reset Oil-in-Serum for a More Youthful and Rested Complexion, 1 fl. oz."
+    },
+    "c_OCC_netWeight": 148.0,
+    "c_OCC_productType": {
+        "default": [
+            "Serum"
+        ],
+        "en-CA": [
+            "Serum"
+        ],
+        "en-US": [
+            "Serum"
+        ],
+        "fr-CA": [
+            "Sérum"
+        ]
+    },
+    "c_OCC_routineDescription": {
+        "en-CA": {
+            "markup": "Pair our beauty booster with your favorite Body Moisturizer to effectively target your skin’s needs with enhanced benefits.",
+            "source": "Pair our beauty booster with your favorite Body Moisturizer to effectively target your skin’s needs with enhanced benefits."
+        },
+        "en-US": {
+            "markup": "Pair our beauty booster with your favorite Body Moisturizer to effectively target your skin’s needs with enhanced benefits.",
+            "source": "Pair our beauty booster with your favorite Body Moisturizer to effectively target your skin’s needs with enhanced benefits."
+        },
+        "fr-CA": {
+            "markup": "Associez notre rehausseur de beauté à vos produits hydratants préférés pour accroître leurs bienfaits et répondre de manière efficace aux besoins de votre peau.",
+            "source": "Associez notre rehausseur de beauté à vos produits hydratants préférés pour accroître leurs bienfaits et répondre de manière efficace aux besoins de votre peau."
+        }
+    },
+    "c_OCC_routineProducts": {
+        "default": [
+            "27DL200I13US",
+            "27OR030I18",
+            "27DC050I17S"
+        ],
+        "default@OCC_CA": [
+            "27DL200I13US",
+            "27OR030I18",
+            "27DC050I17S"
+        ],
+        "default@OCC_US": [
+            "27DL200I13US",
+            "27OR030I18",
+            "27DC050I17S"
+        ]
+    },
+    "c_OCC_routineProductsMainActions": {
+        "default": [
+            "Prep",
+            "Target",
+            "Moisturize"
+        ],
+        "en-CA": [
+            "Prep",
+            "Target",
+            "Moisturize"
+        ],
+        "en-US": [
+            "Prep",
+            "Target",
+            "Moisturize"
+        ],
+        "fr-CA": [
+            "Prépare",
+            "Cible",
+            "Hydrate"
+        ]
+    },
+    "c_OCC_routineTitleDescription": {
+        "default": {
+            "markup": "An Easy Add-On to Your Routine",
+            "source": "An Easy Add-On to Your Routine"
+        },
+        "en-CA": {
+            "markup": "An Easy Add-On to Your Routine",
+            "source": "An Easy Add-On to Your Routine"
+        },
+        "en-US": {
+            "markup": "An Easy Add-On to Your Routine",
+            "source": "An Easy Add-On to Your Routine"
+        },
+        "fr-CA": {
+            "markup": "Un Complément Facile à votre Routine",
+            "source": "Un Complément Facile à votre Routine"
+        }
+    },
+    "c_OCC_scent": "Reset Immortelle",
+    "c_OCC_size": "30",
+    "c_OCC_sizeOz": 1.0,
+    "c_OCC_sizeOzUnit": {
+        "default": "FL.OZ.",
+        "en-CA": "fl.oz",
+        "en-US": "fl.oz"
+    },
+    "c_OCC_sizeUnit": {
+        "default": "ml",
+        "en-CA": "ml",
+        "en-US": "ml"
+    },
+    "c_OCC_texture": {
+        "default": [
+            "Serum"
+        ],
+        "en-US": [
+            "Oil-in-Serum"
+        ],
+        "en-CA": [
+            "Oil-in-Serum"
+        ],
+        "fr-CA": [
+            "Sérum Huile"
+        ]
+    },
+    "c_OCC_type": "Normal",
+    "c_OCC_version": 2018,
+    "c_OCC_webBenefits": {
+        "default": {
+            "markup": "<ul><li>All ages and skin types</li><li>Revitalized skin</li><li>Smoothed fine lines and youthful radiance</li></ul>",
+            "source": "<ul><li>All ages and skin types</li><li>Revitalized skin</li><li>Smoothed fine lines and youthful radiance</li></ul>"
+        },
+        "en-CA": {
+            "markup": "<ul><li>All ages and skin types</li><li>Revitalized skin</li><li>Smoothed fine lines and youthful radiance</li></ul>",
+            "source": "<ul><li>All ages and skin types</li><li>Revitalized skin</li><li>Smoothed fine lines and youthful radiance</li></ul>"
+        },
+        "en-US": {
+            "markup": "<ul><li>All ages and skin types</li><li>Revitalized skin</li><li>Smoothed fine lines and youthful radiance</li></ul>",
+            "source": "<ul><li>All ages and skin types</li><li>Revitalized skin</li><li>Smoothed fine lines and youthful radiance</li></ul>"
+        },
+        "fr-CA": {
+            "markup": "<ul><li>Tous les types de peau. Tout âge</li><li>Revitaliser la peau</li><li>Ridules lissées et éclat de jeunesse</li></ul>",
+            "source": "<ul><li>Tous les types de peau. Tout âge</li><li>Revitaliser la peau</li><li>Ridules lissées et éclat de jeunesse</li></ul>"
+        }
+    },
+    "c_OCC_width": 47.0,
+    "c_OCC_widthInches": 1.85,
+    "c_StarRating": {
+        "en-CA": "6110.0",
+        "en-US": "6110.0",
+        "fr-CA": "5938.0"
+    },
+    "c_StarRatingBase": {
+        "en-CA": "4.8",
+        "en-US": "4.8",
+        "fr-CA": "4.8"
+    },
+    "c_StarRatingCount": {
+        "en-CA": "1310.0",
+        "en-US": "1310.0",
+        "fr-CA": "1138.0"
+    }
+}
