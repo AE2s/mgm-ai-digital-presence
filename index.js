@@ -1,31 +1,17 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const productRoutes = require("./routes/productRoutes.js");
-const { computeData } = require("./models/models.js");
-const cors = require("cors");
+const { Mistral } = require("@mistralai/mistralai");
+require("dotenv").config();
 
-const app = express();
-const PORT = 3000;
+const apiKey = process.env.MISTRAL_API_KEY;
 
-app.use(bodyParser.json());
-app.use(cors());
+const callIA = async () => {
+  const client = new Mistral({ apiKey: apiKey });
 
-// app.all("/*", function (req, res, next) {
-//   res.header("Access-Control-Allow-Origin", "*");
-//   res.header("Access-Control-Allow-Headers", "X-Requested-With");
-//   next();
-// });
-app.post("/test", async (req, res) => {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "X-Requested-With");
-  res.json(await computeData(req.body));
-});
+  const chatResponse = await client.chat.complete({
+    model: "mistral-large-latest",
+    messages: [{ role: "user", content: "What is the best French cheese?" }],
+  });
 
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).json({ error: "Internal server error" });
-});
+  console.log("Chat:", chatResponse.choices[0].message.content);
+};
 
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
-});
+callIA();
