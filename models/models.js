@@ -1,10 +1,12 @@
 module.exports = {
-    computeData: (data) => {
+    computeData: async (data) => {
         const tribe = data.tribe;
         const question = data.question;
         const productId = data.productId;
+        const aiAdapter = require("../ai/aiAdapter");
+        const answer = await aiAdapter.aiData(data);
         return {
-            answer : "Thanks for submitting your request",
+            answer : answer,
         }
     },
 };
