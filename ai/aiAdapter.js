@@ -30,7 +30,7 @@ const createContent = (data) => {
 
 const getPrompt = (data) => {
     if(data.tribe == "luxury") {
-        return "";
+        return "You are a virtual beauty agent that works for a luxury brand. Your task is to answer in less than 200 words to the following customer question : ";
     }
     return "You are a virtual beauty agent. Your task is to answer in less than 200 words to the following customer question : ";
 }
