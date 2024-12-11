@@ -5,6 +5,7 @@ module.exports = {
         const productId = data.productId;
         const aiAdapter = require("../ai/aiAdapter");
         const answer = await aiAdapter.aiData(data);
+        console.log(answer);
         return {
             answer : answer,
         }
