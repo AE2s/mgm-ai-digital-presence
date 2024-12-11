@@ -1,9 +1,10 @@
 module.exports = {
     computeData: (data) => {
-        if (typeof data !== 'object' || data === null || typeof data.productId != undefined) {
-            throw new Error('Parameter is not valid');
-          }
-        
-          return 'data'
+        const tribe = data.tribe;
+        const question = data.question;
+        const productId = data.productId;
+        return {
+            answer : "Thanks for submitting your request",
+        }
     },
 };

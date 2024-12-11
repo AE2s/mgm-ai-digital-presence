@@ -8,9 +8,11 @@ describe('models module', () => {
     test('#2 models contains computeData function', () => {
         expect(models.computeData).toBeDefined();
     });
+})
 
-    test('#3 computeData function throw error parameter does not contains product id infos', () => {
-        const notValidParameter = [1, 2, 3];
-        expect(() => models.computeData(notValidParameter)).toThrow('Parameter is not valid');
+describe('compute data function', () => {
+    test('#4 computeData return JSON object with answer property', () => {
+        const response = models.computeData({productId : "TEST", question : "User's question ? ", tribe : "Edonist",});
+        expect(response).toHaveProperty('answer');
     });
 })
